@@ -1,183 +1,125 @@
-# Infinity Code Nexus (ICN)
+# Batch Highlights
 
 ## Power BI Masterclass — Batch 01
 
-> **Practical Learning • Hands-on Projects • Real Student Outcomes**
+**Infinity Code Nexus (ICN)**
 
-Welcome to the official GitHub portfolio for **Infinity Code Nexus (ICN) — Power BI Masterclass Batch 01**.
+Power BI Masterclass — Batch 01 was a practical, hands-on learning program conducted by Infinity Code Nexus, focused on developing participants' skills in Microsoft Power BI and data analytics.
 
-This repository showcases the learning journey, practical work, dashboards, projects, testimonials, and selected outcomes from Batch 01.
-
----
-
-## About the Masterclass
-
-The **Power BI Masterclass** was designed to provide participants with practical, hands-on exposure to **Microsoft Power BI, data transformation, data modeling, DAX, data visualization, and dashboard development**.
-
-The program focused on learning through:
-
-* Concept explanation
-* Live demonstrations
-* Hands-on practice
-* Real-world datasets
-* Dashboard development
-* Mini projects
-* Practical challenges
+The program emphasized practical learning through concepts, demonstrations, hands-on activities, datasets, dashboard development, and project-based learning.
 
 ---
 
-## What Participants Worked On
+## Batch 01 at a Glance
 
-Participants explored key areas of Power BI, including:
-
-* Power BI fundamentals
-* Data connection and importing
-* Power Query
-* Data cleaning and transformation
-* Data modeling
-* Relationships
-* Star schema concepts
-* DAX fundamentals
-* Business calculations
-* Data visualization
-* Dashboard design
-* Interactive reports
-* Real-world project development
+| Category | Details |
+|---|---|
+| Program | Power BI Masterclass |
+| Batch | Batch 01 |
+| Organization | Infinity Code Nexus (ICN) |
+| Focus Area | Power BI & Data Analytics |
+| Learning Mode | Live Online |
+| Completed Projects | 24 |
+| Dashboards per Project | Approximately 5–7 |
+| Selected Dashboard Projects | 6 |
+| Written Student Feedback | Available |
+| Video Testimonials | Top 5 Selected |
+| Public Portfolio | GitHub |
 
 ---
 
-## Batch 01 — Portfolio
+## Learning Journey
+
+### Learn
+
+Participants were introduced to Power BI concepts and the fundamentals of data analytics.
+
+### Practice
+
+Participants worked with datasets and applied the concepts through hands-on activities.
+
+### Build
+
+Participants developed complete multi-dashboard Power BI projects.
+
+### Analyze
+
+Participants worked with data, created calculations, explored patterns, and generated insights.
+
+### Visualize
+
+Participants created interactive dashboards and reports using Power BI.
+
+### Showcase
+
+Completed projects, dashboard showcases, documentation, datasets, and student feedback were organized into a public portfolio.
+
+---
+
+## Batch 01 Outcomes
+
+The Batch 01 portfolio includes:
+
+- 24 completed participant projects
+- Approximately 5–7 dashboards/report pages per project
+- Project documentation
+- Project datasets
+- Selected multi-dashboard project showcases
+- Written student testimonials
+- Top 5 student video testimonials
+
+---
+
+## Portfolio Sections
 
 ### Student Projects
 
-Explore projects developed by Batch 01 participants.
+Explore the complete collection of 24 participant projects.
 
-**[View Student Projects](./Student-Projects/)**
+[View Student Projects](../Student-Projects/)
 
 ### Dashboard Showcase
 
-Selected Power BI dashboard previews and visual work.
+Explore selected multi-dashboard projects from Batch 01.
 
-**[View Dashboard Showcase](./Dashboard-Showcase/)**
+[View Dashboard Showcase](../Dashboard-Showcase/)
 
 ### Student Testimonials
 
-Read feedback and experiences shared by Batch 01 participants.
+Read the collected written feedback from Batch 01 participants.
 
-**[View Student Testimonials](./Student-Testimonials/)**
+[View Student Testimonials](../Student-Testimonials/)
 
 ### Video Testimonials
 
 Watch selected video testimonials from Batch 01 participants.
 
-**[View Video Testimonials](./Video-Testimonials/)**
-
-### Batch Highlights
-
-Explore selected highlights and activities from the program.
-
-**[View Batch Highlights](./Batch-Highlights/)**
-
-### Documentation
-
-Access relevant documentation and supporting materials.
-
-**[View Documentation](./Documentation/)**
+[View Video Testimonials](../Video-Testimonials/)
 
 ---
 
 ## Learning Approach
 
-At Infinity Code Nexus, the focus is on connecting concepts with practical implementation.
+The Batch 01 learning approach followed:
 
-### Learn → Practice → Build → Showcase
+**Learn → Practice → Build → Analyze → Visualize → Showcase**
 
-Participants are encouraged to move beyond theoretical understanding and apply their learning through practical activities and projects.
-
----
-
-## Student Outcomes
-
-Batch 01 focused on helping participants:
-
-* Understand Power BI fundamentals
-* Work with real-world datasets
-* Transform and prepare data
-* Build data models
-* Create DAX calculations
-* Design interactive dashboards
-* Develop project-based solutions
-* Build a portfolio of practical work
+The focus was on applying concepts through practical activities and project development.
 
 ---
 
-## Proof of Work
+## Batch 01 — Proof of Work
 
-This repository provides a public collection of selected Batch 01 work, including:
+The GitHub portfolio brings together:
 
-**Projects + Dashboards + Documentation + Testimonials + Batch Highlights**
+**24 Projects + Multi-Dashboard Solutions + Documentation + Datasets + Student Feedback + Video Testimonials**
 
-The purpose is to provide a transparent view of the practical work completed during the program.
-
----
-
-## About Infinity Code Nexus
-
-**Infinity Code Nexus (ICN)** is focused on practical, student-centered and industry-oriented learning experiences across technology and digital skills.
-
-Our approach emphasizes:
-
-**Learning → Practice → Projects → Portfolio**
+These resources provide a consolidated view of the practical work and participant experiences from Power BI Masterclass — Batch 01.
 
 ---
 
-## Batch 02
+## Infinity Code Nexus
 
-### Power BI Masterclass — Batch 02
+**Practical Learning. Real Projects. Student Outcomes.**
 
-**Starting:** 5 October 2026
-**Duration:** 8 Days
-**Daily Training:** 2 Hours
-**Total Training:** 16 Hours
-**Mode:** Live Online
-**Registration Fee:** ₹149
-
-Batch 02 builds on the practical learning approach established through Batch 01.
-
----
-
-## Repository Structure
-
-```text
-PowerBI-Masterclass-Batch-01/
-│
-├── README.md
-│
-├── Student-Projects/
-│
-├── Dashboard-Showcase/
-│
-├── Student-Testimonials/
-│
-├── Video-Testimonials/
-│
-├── Batch-Highlights/
-│
-└── Documentation/
-```
-
----
-
-## Connect With Infinity Code Nexus
-
-**Infinity Code Nexus (ICN)**
-
-Website: *Coming Soon*
-
-GitHub: *This Portfolio*
-
----
-
-### Built Through Learning. Demonstrated Through Projects.
-
-**Infinity Code Nexus — Practical Learning. Real Projects. Student Outcomes.**
+*Infinity Code Nexus (ICN)*
