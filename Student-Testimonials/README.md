@@ -60,6 +60,7 @@ The Infinity Code Nexus Power BI Masterclass focused on practical, hands-on lear
 ---
 
 ## Infinity Code Nexus
+<img width="874" height="921" alt="image" src="https://github.com/user-attachments/assets/2ddf44d9-09ab-46f3-9c86-185617e9d0a2" />
 
 **Practical Learning. Real Projects. Student Outcomes.**
 
