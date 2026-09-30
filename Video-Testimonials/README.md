@@ -14,7 +14,7 @@ These testimonials provide participants with an opportunity to share their learn
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./01-Participant-Name.mp4)**
+**[View Video](./01-Adurapally Divyavani.mp4)**
 
 ---
 
@@ -22,7 +22,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./02-Participant-Name.mp4)**
+**[View Video](./02-Kiranmai Oruganti.mp4)**
 
 ---
 
@@ -30,7 +30,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./03-Participant-Name.mp4)**
+**[View Video](./03-KANAMATHAREDDY CHETHAN REDDY.mp4)**
 
 ---
 
@@ -38,7 +38,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./04-Participant-Name.mp4)**
+**[View Video](./04-Nagavelli Manikantachary.mp4)**
 
 ---
 
@@ -46,7 +46,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./05-Participant-Name.mp4)**
+**[View Video](./05-Motha Bharath Kumar.mp4)**
 
 ---
 
