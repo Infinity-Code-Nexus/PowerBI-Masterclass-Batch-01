@@ -30,7 +30,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](Video-Testimonials/POWER BI MASTER CLASS — STUDENT TESTIMONIAL #03.mp4)**
+**[View Video](https://github.com/Infinity-Code-Nexus/PowerBI-Masterclass-Batch-01/blob/05ff0fda9b2810d331e1790902fe6be4acc9fe08/Video-Testimonials/POWER%20BI%20MASTER%20CLASS%20%E2%80%94%20STUDENT%20TESTIMONIAL%20%2303.mp4)**
 
 ---
 
@@ -38,7 +38,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./04-Nagavelli Manikantachary.mp4)**
+**[View Video](https://github.com/Infinity-Code-Nexus/PowerBI-Masterclass-Batch-01/blob/ccbb9c4f5b2cef2d8485ac106478444c91fabb1f/Video-Testimonials/POWER%20BI%20MASTER%20CLASS%20%E2%80%94%20STUDENT%20TESTIMONIAL%20%2304.mp4)**
 
 ---
 
@@ -46,7 +46,7 @@ Video testimonial from a Batch 01 participant sharing their experience of the Po
 
 Video testimonial from a Batch 01 participant sharing their experience of the Power BI Masterclass.
 
-**[View Video](./05-Motha Bharath Kumar.mp4)**
+**[View Video](https://github.com/Infinity-Code-Nexus/PowerBI-Masterclass-Batch-01/blob/ccbb9c4f5b2cef2d8485ac106478444c91fabb1f/Video-Testimonials/POWER%20BI%20MASTER%20CLASS%20%E2%80%94%20STUDENT%20TESTIMONIAL%20%2305.mp4)**
 
 ---
 
